@@ -7,4 +7,4 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ19qcHYyLndkY3I4ODgueHl6IiwKICAi
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ191c25mLndkY3I4ODgueHl6IiwKICAiYWRkIjogInVzbmYud2Rjcjg4OC54eXoiLAogICJwb3J0IjogIjQ0MyIsCiAgImlkIjogIjA2N2RhOTYxLTYyNjAtNGJkZC05ZWEwLTQ0MWJmMmIxNGU3ZCIsCiAgImFpZCI6ICIzMiIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAidXNuZi53ZGNyODg4Lnh5eiIsCiAgInBhdGgiOiAiLzg0YjI1MTk2LyIsCiAgInRscyI6ICJ0bHMiCn0K
 
 #香港节点tj奈飞
-trojan://4845f297@trojan001.wdcr888.xyz:443?allowInsecure=1&peer=#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B9%E5%A5%88%E9%A3%9E
+trojan://b134c40d@tjnf.wdcr888.xyz:443?allowInsecure=1&peer=
